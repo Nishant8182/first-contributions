@@ -962,6 +962,7 @@ https://github.com/1276604737-cloud
 - [Gimerbone](https://github.com/Gimerbone)
 - [AkariTrask](https://github.com/AkariTrask)
 - [Muskan Yadav](https://github.com/pikmuse)
+- [Nishant](https://github.com/Nishant8182)
 - [Krishna Vinod](https://github.com/Krishna-Vinod07)
 - [Saifullah Ndubano](https://github.com/Hayden-Fade61)
 -[Neha Singh](https://github.com/Neha-Singh-glitch)
